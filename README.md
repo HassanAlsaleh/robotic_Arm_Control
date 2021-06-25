@@ -1,5 +1,4 @@
 # robotic_Arm_Control
-A webpage to control a robotic arm with 6 engines. 
 This repository is a part of the training at Smart Methods, and it is to control a robotic arm with 6 engines. 
 
 
