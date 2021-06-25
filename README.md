@@ -10,6 +10,9 @@ Index.php page has 6 sliders which represent the values to be entered by the end
 
 
 connect.php page is used to connect to the database.
+
+
+
 updatedb.php page is used when the user click save in index.php page and it will update the values in the database with the current values of the sliders which will be received using get method. 
 
 
