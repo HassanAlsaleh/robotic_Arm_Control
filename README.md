@@ -17,6 +17,8 @@ startarm.php page is used to read the last values entered when clicking start in
 
 
 
+index.css is used to style the index page.
+
 
 Database has 8 columns 6 for the engines values 1 for the state and 1 for the entry which is always 1. 
 
